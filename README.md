@@ -21,5 +21,5 @@ Step 2: extract keyphrases
 python src/ranker.py [data_path] [model_name]
 ```
 
-## Comments & TODO
-The middle layer representation of BERT model may get better performance.
+## Comments
+This is code submission for ML reproducibity challenge 2021 Edition
